@@ -1,18 +1,0 @@
-
-M
-java:S1128
-"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Éùêñ˜.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(õñŠþÿÿÿÿ8ÈÒàŸ™.
-Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8ÂÌ§ð˜.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(£ëÏòýÿÿÿÿ8µÝðŸ™.
-Z	java:S106""9Replace this use of System.out or System.err by a logger.(£ëÏòýÿÿÿÿ8‰ŠñŸ™.
-Z	java:S106$"9Replace this use of System.out or System.err by a logger.(õñŠþÿÿÿÿ8ÚÐãŸ™.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(õñŠþÿÿÿÿ8ãÎâŸ™.
-£
-java:S1192"€Define a constant instead of duplicating this literal "Item Name, ID Number, Number in Stock, Low Level, Optimal Level" 3 times.(£ëÏòýÿÿÿÿ8Ë³ðŸ™.
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶Âñøÿÿÿÿ
-T	java:S106"9Replace this use of System.out or System.err by a logger.(äøÌ>8êÞÖÕ˜.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(£ëÏòýÿÿÿÿ8Ë³ðŸ™.
-j
-java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Óü¬™
-Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ú…õÓþÿÿÿÿ8ô‘ÙÕ˜.
