@@ -1,0 +1,21 @@
+
+X
+java:S1128
+";Remove this unused import 'com.company.screens.admin.Menu'.(Óü¬™8…öÂ™.
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(†ò¿„8†¤Þò™.
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(äÌ¹Éÿÿÿÿÿ8æ‘ÜÓ˜.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÀÞÉÂ˜.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°þ”üÿÿÿÿ8£ÕÈÒ˜.
+X	java:S125"<This block of commented-out lines of code should be removed.(êô¶Ù8ü»ÄÁ˜.
+V
+java:S1128"9Remove this unused import 'com.company.DAO.models.Order'.(Á²ªÉ8æ®½Ò˜.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(»³·éþÿÿÿÿ8èÖ¯Ó˜.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ËÐûÕþÿÿÿÿ8øÈŠÓ˜.
+_
+java:S1128	"CRemove this unused import 'com.company.screens.admin.AddInventory'.(¬ ñ98¥ÉÝÓ˜.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÀÞÉÂ˜.
+T
+java:S1128"2Remove this unused import 'javax.swing.text.View'.(“¦¨Éýÿÿÿÿ8†¤Þò™.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(–î©…øÿÿÿÿ8øÈŠÓ˜.
